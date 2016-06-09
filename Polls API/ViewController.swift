@@ -30,20 +30,20 @@ class ViewController: UIViewController {
                 
                 let jsonDictionary = try NSJSONSerialization.JSONObjectWithData(data!, options: .AllowFragments)
                 
-                print(jsonDictionary)
+//                print(jsonDictionary)
                 
 //                let list = jsonDictionary[0]["choices"] as! NSArray
-//                
+                let list = jsonDictionary as! NSArray
 //                print(list)
-//                
-//                for le in list {
-//                    let choice = le["choice"] as! String
-//                    let urls = le["url"] as! String
-//                    let votes = le["votes"] as! NSNumber
-//                    print(choice)
-//                    print(urls)
-//                    print(votes)
-//                }
+
+                for le in list {
+                    let choice = le["CreatedBy"] as! Int
+                    let urls = le["ShcoolID"] as! Int
+                    let votes = le["Description"] as! String
+                    print(choice)
+                    print(urls)
+                    print(votes)
+                }
                 
             } catch {
                 print("invalid json format")
