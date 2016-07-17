@@ -1,11 +1,13 @@
 # Polls-API
 Test API App
 
-
-
-![Alt Text](http://ringau.com/Ga3an/photo_2016-07-17_14-58-21.jpg)
-
 ![alt tag](http://ringau.com/Ga3an/photo_2016-07-17_14-58-18.jpg)
+![alt tag](http://ringau.com/Ga3an/photo_2016-07-17_14-58-21.jpg)
+![alt tag](http://ringau.com/Ga3an/photo_2016-07-17_14-58-22.jpg)
+![alt tag](http://ringau.com/Ga3an/photo_2016-07-17_14-58-23.jpg)
+![alt tag](http://ringau.com/Ga3an/photo_2016-07-17_14-58-24.jpg)
+![alt tag](http://ringau.com/Ga3an/photo_2016-07-17_14-58-26.jpg)
+![alt tag](http://ringau.com/Ga3an/photo_2016-07-17_14-58-27.jpg)
 
 
 
